@@ -4,6 +4,15 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+
+##  👋 Hey there !
+
+I’m a PhD candidate in the *Robotics & AI* group at **Luleå University of Technology**. My research is on advancing autonomous operations for robotic inspections in extreme environments. 
+
+🔍 I design autonomy pipelines that let robots **plan views** and build interpretable **semantic scene representations** during inspection missions.
+
+Feel free to visit my associted portfolios below for more information.
+
 ## 🚀 Publications
 Explore my latest research and peer-reviewed works on  
 [**Google Scholar**](https://scholar.google.com/citations?user=Z5861yEAAAAJ&hl=en)
