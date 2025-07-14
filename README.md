@@ -7,7 +7,7 @@
 
 ##  👋 Hey there !
 
-I’m a PhD candidate in the *Robotics & AI* group at **Luleå University of Technology**. My research is on advancing autonomous operations for robotic inspections in extreme environments. 
+I’m a PhD candidate in the *Robotics & AI* group at Luleå University of Technology. My research is on advancing autonomous operations for robotic inspections in extreme environments. 
 
 🔍 I design autonomy pipelines that let robots **plan views** and build interpretable **semantic scene representations** during inspection missions.
 
