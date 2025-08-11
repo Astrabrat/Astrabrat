@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=<++Researcher++/>;<++Roboticist++/>;<++Engineer++/>;" alt="Typing SVG" />
 </div>
 
-I’m a PhD candidate in *Robotics & AI* group at Luleå University of Technology. My research is on advancing autonomous operations for robotic inspections in extreme environments. 
+I’m a PhD candidate in *Robotics & AI* group at Luleå University of Technology. My research is on advancing autonomous operations for robotic inspections in challenging environments. 
 
 🔍 I design autonomy pipelines that let robots **plan views** and build interpretable **semantic scene representations** during inspection missions.
 
